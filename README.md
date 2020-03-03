@@ -11,11 +11,11 @@ Jeaux is a light and easy schema validator.
 
   1. Add `jeaux` to your list of dependencies in `mix.exs`:
 
-    ```elixir
-    def deps do
-      [{:jeaux, "~> 0.7.0"}]
-    end
-    ```
+```elixir
+def deps do
+  [{:jeaux, "~> 0.7.0"}]
+end
+```
 
 Example:
 
